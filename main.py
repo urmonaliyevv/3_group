@@ -4,3 +4,5 @@ def qoshish(a, b):
 
 # ishlatish
 print(qoshish(5, 3))
+
+print('hello asd')
